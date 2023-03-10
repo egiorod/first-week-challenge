@@ -15,6 +15,8 @@ body {
     color: #ffffff;
 }
 
+    /* display: inline-block; */
+
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -24,6 +26,10 @@ body {
     color: #d9dcd6;
 }
 
+nav {
+    display: inline-block;
+}
+
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,6 +37,7 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
+
 
 .header div ul {
     list-style-type: none;
